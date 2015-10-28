@@ -1,12 +1,22 @@
 {
   "name": "pub-sub-store",
   "version": "0.0.1",
+  "description": "A simple and fast store with pub, sub, unSub, get, set methods",
   "main": "lib/Store.js",
   "bugs": {
     "url": "https://github.com/shumov/pub-sub-store/issues"
   },
+  "keywords": [
+    "store",
+    "pub",
+    "sub",
+    "flux",
+    "dispatcher"
+  ],
+  "license": "BSD-3-Clause",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shumov/pub-sub-store.git"
-  }
+  },
+  "author": "Fedor Shumov"
 }
