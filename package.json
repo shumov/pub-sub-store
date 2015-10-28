@@ -2,7 +2,7 @@
   "name": "pub-sub-store",
   "version": "0.0.3",
   "description": "A simple and fast store with pub, sub, unSub, get, set methods",
-  "main": "lib/store.js",
+  "main": "lib/Store.js",
   "bugs": {
     "url": "https://github.com/shumov/pub-sub-store/issues"
   },
