@@ -1,0 +1,12 @@
+{
+  "name": "pub-sub-store",
+  "version": "0.0.1",
+  "main": "lib/Store.js",
+  "bugs": {
+    "url": "https://github.com/shumov/pub-sub-store/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shumov/pub-sub-store.git"
+  }
+}
