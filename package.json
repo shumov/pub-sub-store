@@ -1,6 +1,6 @@
 {
   "name": "pub-sub-store",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "A simple and fast store with pub, sub, unSub, get, set methods",
   "main": "lib/Store.js",
   "bugs": {
